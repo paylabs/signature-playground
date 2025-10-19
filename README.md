@@ -191,9 +191,9 @@ Gunakan `docker-compose` atau `systemd service` untuk menjalankan container di s
 
 ## 👥 Kontributor
 
-| Nama                    | Peran                                    | Kontak                                        |
-| :---------------------- | :--------------------------------------- | :-------------------------------------------- |
-| **Ahmad Eko Kurniawan** | Application Support Engineer / Developer | [ahmad@example.com](mailto:ahmad@example.com) |
+| Nama                    | Peran                      | Kontak                                        |
+| :---------------------- | :------------------------- | :-------------------------------------------- |
+| **Ahmad Eko Kurniawan** | Technical Support Engineer | [ahmad@example.com](mailto:ahmad@paylabs.co.id) |
 
 Kontribusi baru sangat diterima melalui **pull request** atau **issue report**.
 
