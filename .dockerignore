@@ -1,0 +1,36 @@
+# Node dependencies
+node_modules
+npm-debug.log
+yarn-error.log
+
+# Environment files
+.env
+.env.*
+*.pem
+*.key
+*.crt
+cert/
+config/
+
+# Git files
+.git
+.gitignore
+
+# Docker & CI/CD
+docker-compose.yml
+Dockerfile
+.dockerignore
+
+# IDE / system
+.vite/
+.vscode
+.idea
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+dist
+coverage
+
+# Github file
+README.md

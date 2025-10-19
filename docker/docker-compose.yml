@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  signature:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    image: paylabs-signature-playground:${BUILD_NUMBER}
+    container_name: signature-playground
+    ports:
+      - "443:443"
+    restart: always
